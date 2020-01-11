@@ -1,7 +1,7 @@
 # Spell checker and auto correct
 
 ## Description
-Spell checker and auto corrector Project, which lets you check the spelling of words which stored in your tree and if spellings are incorrect it auto corrects the spelling of word which stored in the dictionary.txt file. The technology we use in this project is C++ language using Tree class. Software use in this project is Visual Studio Community.
+Spell checker and auto corrector Project, which lets you check the spelling of words which stored in your tree and if spellings are incorrect it auto corrects the spelling of word and store in the dictionary.txt file. The technology used in this project is C++ language using Tree class. Software use in this project is Visual Studio Community.
 
 ## Modules:
 * bool load()
